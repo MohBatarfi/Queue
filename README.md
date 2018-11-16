@@ -1,12 +1,5 @@
-# README #
-
-This README is the Project #4 - Queues.
-
-### What is this repository for? ###
+### Queue ###
+Co-developed Queue project in a store with 5 cashiers serving number of customers.
 
 * Mohammed Batarfi
 * Heyley Gatewood
-* CSCI 142
-* Fall 2017
-* Due Wednesday December 13.
-
