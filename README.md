@@ -1,5 +1,6 @@
 ### Queue ###
-Co-developed Queue project in a store with 5 cashiers serving number of customers.
+
+Co-Developed supermarket simulation of cashiers serving number of customers using LinkedList and threads
 
 * Mohammed Batarfi
 * Heyley Gatewood
